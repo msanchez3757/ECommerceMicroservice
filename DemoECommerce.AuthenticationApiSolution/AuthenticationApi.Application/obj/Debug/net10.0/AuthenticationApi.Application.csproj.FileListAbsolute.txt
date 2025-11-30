@@ -1,0 +1,15 @@
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net10.0\AuthenticationApi.Application.deps.json
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net10.0\AuthenticationApi.Application.dll
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net10.0\AuthenticationApi.Application.pdb
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\AuthenticationApi.Application.AssemblyInfoInputs.cache
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\AuthenticationApi.Application.AssemblyInfo.cs
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\AuthenticationApi.Application.dll
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\refint\AuthenticationApi.Application.dll
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\AuthenticationApi.Application.pdb
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\ref\AuthenticationApi.Application.dll
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net10.0\eCommerce.SharedLibrary.dll
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net10.0\eCommerce.SharedLibrary.pdb
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\AuthenticationApi.Application.csproj.AssemblyReference.cache
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net10.0\Authenti.F26204DC.Up2Date

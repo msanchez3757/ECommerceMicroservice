@@ -1,0 +1,11 @@
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net10.0\AuthenticationApi.Domain.deps.json
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net10.0\AuthenticationApi.Domain.dll
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net10.0\AuthenticationApi.Domain.pdb
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net10.0\AuthenticationApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net10.0\AuthenticationApi.Domain.AssemblyInfoInputs.cache
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net10.0\AuthenticationApi.Domain.AssemblyInfo.cs
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net10.0\AuthenticationApi.Domain.csproj.CoreCompileInputs.cache
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net10.0\AuthenticationApi.Domain.dll
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net10.0\refint\AuthenticationApi.Domain.dll
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net10.0\AuthenticationApi.Domain.pdb
+M:\code\repos\DemoECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net10.0\ref\AuthenticationApi.Domain.dll

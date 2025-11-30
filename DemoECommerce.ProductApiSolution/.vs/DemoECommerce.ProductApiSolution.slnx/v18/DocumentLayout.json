@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\code\\repos\\DemoECommerce.ProductApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B3014B-1287-43E6-9156-ABA7D32CDC0D}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|m:\\code\\repos\\demoecommerce.productapisolution\\unittest.productapi\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B3014B-1287-43E6-9156-ABA7D32CDC0D}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|solutionrelative:unittest.productapi\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepositoryTest.cs",
+              "DocumentMoniker": "M:\\code\\repos\\DemoECommerce.ProductApiSolution\\UnitTest.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeDocumentMoniker": "UnitTest.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "ToolTip": "M:\\code\\repos\\DemoECommerce.ProductApiSolution\\UnitTest.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeToolTip": "UnitTest.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAUwLgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:43:00.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

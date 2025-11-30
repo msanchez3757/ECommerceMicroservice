@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="../DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/eCommerce.SharedLibrary.csproj" />
+    <Project Path="ProductApi.Application/ProductApi.Application.csproj" />
+    <Project Path="ProductApi.Domain/ProductApi.Domain.csproj" />
+    <Project Path="ProductApi.infrastructure/ProductApi.infrastructure.csproj" />
+    <Project Path="ProductApi.Presentation/ProductApi.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="UnitTest.ProductApi/UnitTest.ProductApi.csproj" Id="49b3014b-1287-43e6-9156-aba7d32cdc0d" />
+  </Folder>
+</Solution>
